@@ -1,0 +1,5 @@
+通过该项目实践下
+spring+springmvc+mybatis+redis 的开发方法
+master是当前版本是一个空白的系统架构
+
+里面展示了如何通过maven 的3个工程：jar,pom,war来组织我们的工程结构
